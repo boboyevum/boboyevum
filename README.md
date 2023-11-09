@@ -1,6 +1,6 @@
-# Hi folks! I'm Umar 🤝
+## Hi folks! I'm Umar 🤝
 
-## About Me
+### About Me
 - 📊 Data Science Enthusiast
 - 📚 Currently exploring topics on Predictive Modeling
 - 💡 Working on Food Demand Forecasting Project
